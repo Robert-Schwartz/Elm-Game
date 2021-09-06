@@ -1,6 +1,6 @@
 # Elm-Game
 
-Practice Repo for Learning ELM
+Practice Repo for ELM Key Concept Basics
 
 
 ## What is Elm?
