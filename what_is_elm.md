@@ -1,8 +1,3 @@
-# Elm-Game
-
-Practice Repo for Learning ELM
-
-
 What is Elm?
 - Functional language that compiles to JavaScript
 	- Meant for developing web apps
@@ -19,7 +14,7 @@ Cool features of Elm
 - Nice built in tools
 - No runtime exceptions (i.e. null or undefined errors)
 - Friendly, easy-to-read error messages in the compiler
-- Immutable data
+- Immutable data 
 - Functions must be pure
 - Unidirectional data flow
 - Centralized state
